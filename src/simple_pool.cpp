@@ -3,6 +3,7 @@
 
 #include <redis3m/simple_pool.h>
 #include <redis3m/command.h>
+#include <functional>
 
 using namespace redis3m;
 

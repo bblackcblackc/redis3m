@@ -8,6 +8,7 @@
 #include <set>
 #include <memory>
 #include <mutex>
+#include <functional>
 
 namespace redis3m
 {
